@@ -1,2 +1,0 @@
-# inputsReact
-Created with CodeSandbox
